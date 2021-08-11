@@ -1,2 +1,2 @@
-# lista-duplamente-encadeada
- Implementação da classe NoDuplo
+# Lista Duplamente Encadeada
+ Implementação da classe NoDuplo.
