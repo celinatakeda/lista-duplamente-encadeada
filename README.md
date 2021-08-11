@@ -1,4 +1,5 @@
 # Lista Duplamente Encadeada
+Implementação da classe NoDuplo.
  
  Diferenças com a lista encadeada simples.
  * Cada nó da lista duplamente encadeada tem duas referências. Uma referência para o nó anterior e uma referência para o nó posterior.
